@@ -1,5 +1,7 @@
 # Karya
 
+[![Join the chat at https://gitter.im/karyamedia/karya](https://badges.gitter.im/karyamedia/karya.svg)](https://gitter.im/karyamedia/karya?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Alt text](https://raw.githubusercontent.com/karyamedia/karya/master/assets/img/logo.png "Karyamedia")
 
 [![Build Status](https://snap-ci.com/karyamedia/karya/branch/master/build_image)](https://snap-ci.com/karyamedia/karya/branch/master)
